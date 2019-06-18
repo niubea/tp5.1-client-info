@@ -1,6 +1,6 @@
 <?php
 
-namespace Jenssegers\Agent;
+namespace czt\Agent;
 
 use Illuminate\Support\ServiceProvider;
 
