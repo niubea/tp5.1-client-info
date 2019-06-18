@@ -1,5 +1,5 @@
 {
-    "name": "czt/tp5.1-client-info",
+    "name": "czt/agent",
     "description": "TP5.1获取用户终端信息",
     "keywords": ["laravel", "useragent", "agent", "user agent", "browser", "platform", "mobile", "thinkPHP"],
     "homepage": "https://github.com/niubea/tp5.1-client-info",
