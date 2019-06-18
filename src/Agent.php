@@ -42,6 +42,8 @@ class Agent extends Mobile_Detect
         'Edge' => 'Edge',
         'UCBrowser' => 'UCBrowser',
         'Vivaldi' => 'Vivaldi',
+        'MicroMessenger' => 'MicroMessenger',
+        'QQBrowser' => 'QQBrowser',
         'Chrome' => 'Chrome',
         'Firefox' => 'Firefox',
         'Safari' => 'Safari',
@@ -71,6 +73,8 @@ class Agent extends Mobile_Detect
         'IE' => ['IEMobile/[VER];', 'IEMobile [VER]', 'MSIE [VER];', 'rv:[VER]'],
         'Edge' => 'Edge/[VER]',
         'Vivaldi' => 'Vivaldi/[VER]',
+        'QQBrowser' => 'QQBrowser/[VER]',
+        'MicroMessenger' => 'MicroMessenger/[VER]',
     ];
 
     /**
